@@ -1,0 +1,6 @@
+- open and sign in n8n
+- Step 1: Create a WorkFlow.
+- Step 2: add a manual trigger
+- Step 3: add Gmail to sent a message to the user
+- Step 4: execute the workflow
+- <img width="993" height="669" alt="n8n3" src="https://github.com/user-attachments/assets/7553684b-473e-4cbc-8bf9-23fdf4604353" />
