@@ -1,0 +1,6 @@
+- Step 1: Open n8n and create a new workflow.
+- Step 2: Add an On Form Submission trigger node and set up your form fields.
+- Step 3: Add a Google Sheets – Append Row node.
+- Step 4: Connect On Form Submission → Append Row in Sheet.
+- Step 5: Select your spreadsheet, map the form fields to sheet columns, then save and activate the workflow.
+- <img width="1036" height="708" alt="n8n5" src="https://github.com/user-attachments/assets/c2c521ef-02b7-4594-a82a-ae1a19bfffae" />
